@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mochluxman/)](https://medium.com/@mochluxman)
 [![Driblle](https://img.shields.io/badge/-Dribble-e4405f?style=flat&labelColor=e4405f&logo=dribbble&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=white&logo=youtube&logoColor=c4302b&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
+[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-white?style=flat&labelColor=white&logo=youtube&logoColor=c4302b&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mochluxman/)
