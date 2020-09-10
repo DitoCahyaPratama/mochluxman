@@ -10,13 +10,14 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mochluxman/)](https://medium.com/@mochluxman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=red)](mailto:murillo.comino@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:murillo.comino@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=white&logo=youtube&logoColor=c4302b&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
 
 [![Telegram](https://img.shields.io/badge/-telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://github.com/onimur)
+[![Whatsapp](https://img.shields.io/badge/-whatsapp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6282140572544)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Whatsapp](https://img.shields.io/badge/-whatsapp-25d366?style=flat&logo=whatsapp&logoColor=white)](https://github.com/onimur)
-[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) 
+ 
 
 &nbsp;
 
@@ -27,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Laravel and Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
+- 📫 How to reach me: [@mochluxman](https://twitter.com/mochuxman);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 **Languages and Tools:**  
