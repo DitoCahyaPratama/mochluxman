@@ -42,14 +42,9 @@ You can use the website to generate badges: https://shields.io/
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>💻 Github Stats</b></summary>
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=mochluxman&show_icons=true&hide_border=true" />
-</details>
-
-<details>	
-  <summary><b>💻 Most Languages</b></summary>
-	
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochluxman&layout=compact&show_icons=true&hide_border=true" />
 </details>
 
