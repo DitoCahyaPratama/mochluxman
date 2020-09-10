@@ -9,11 +9,12 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mochluxman/)](https://medium.com/@mochluxman)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:murillo.comino@gmail.com)
+[![Driblle](https://img.shields.io/badge/-Dribble-e4405f?style=flat&labelColor=e4405f&logo=dribbble&logoColor=white)](https://www.instagram.com/murillo_comino/)
 [![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=white&logo=youtube&logoColor=c4302b&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:murillo.comino@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://github.com/onimur)
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6282140572544)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
