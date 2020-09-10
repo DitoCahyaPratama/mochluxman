@@ -1,7 +1,7 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Moch. Lukman Hakim" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
 ### I'm Moch Lukman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on WhatsApp if you'd like to talk ✌️
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,10 +13,10 @@ You can use the website to generate badges: https://shields.io/
 [![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=white&logo=youtube&logoColor=c4302b&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mochluxman/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:murillo.comino@gmail.com)
-[![Telegram](https://img.shields.io/badge/-telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://github.com/onimur)
-[![Whatsapp](https://img.shields.io/badge/-whatsapp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6282140572544)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://github.com/onimur)
+[![Whatsapp](https://img.shields.io/badge/-Whats%20App-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6282140572544)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
  
 
@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
   <summary><b>💻 Github Stats</b></summary>
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=mochluxman&show_icons=true&hide_border=true" />
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochluxman&layout=compact&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochluxman&layout=compact&show_icons=true&hide_border=true" /
 
 <!-- Its main projects -->
 <p align="center">
