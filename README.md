@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
-[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) 
+[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) 
 
 &nbsp;
 
@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Laravel and Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
@@ -58,6 +58,14 @@ You can use the website to generate badges: https://shields.io/
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a>
 </p>
+
+</details>
+
+<details>	
+  <summary><b>📢 Community</b></summary>
+	
+<img alt="" src="https://img.shields.io/static/v1?&&label=&message=SMKCoding&color=blueviolet" />
+<img alt="" src="https://img.shields.io/static/v1?label=1000&message=Start%20Up&color=red" />
 
 </details>
 
