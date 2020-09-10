@@ -8,11 +8,13 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mochluxman/)](https://medium.com/@mochluxman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=mochluxman.mochluxman)
+[![YouTube Badge](https://img.shields.io/badge/-You%20Tube-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) 
 
 &nbsp;
 
@@ -46,6 +48,17 @@ You can use the website to generate badges: https://shields.io/
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=mochluxman&show_icons=true&hide_border=true" />
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochluxman&layout=compact&show_icons=true&hide_border=true" />
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/mochluxman/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  </a>
+  <a href="https://github.com/mochluxman/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a>
+</p>
+
 </details>
 
 <details>
@@ -105,6 +118,10 @@ You can use the website to generate badges: https://shields.io/
 	⚛️ Checkout My Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
+
+#
+
+---
 
 #
 ## :sparkling_heart: Support the project
