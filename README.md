@@ -1,7 +1,7 @@
 <img align="left" width="150" height="150" alt="Moch. Lukman Hakim" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
 ### I'm Moch Lukman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on WhatsApp if you'd like to talk ✌️
+A developer & designer from Malang,Indonesia. I love building applications & discussing new product ideas. Reach out to me on WhatsApp if you'd like to talk ✌️
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
